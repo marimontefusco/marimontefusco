@@ -3,7 +3,7 @@
 
 - ⚡ I’m graduated in Fashion Design 
 - ⚡ Nowadays I’m studying web development and programming languages to become a Front-end Developer 
-- ⚡ I’m currently learning Javascript and React and improving HTML and CSS
+- ⚡ I’m currently learning Javascript and React and improving HTML and CSS codes
 - ⚡ Feel free to contact me!
 
 <br>
