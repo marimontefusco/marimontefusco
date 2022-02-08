@@ -1,10 +1,10 @@
 ### Hello, everybody!  👋
 <br>
 
-- ⚡ I’m graduated in Fashion Design 
-- ⚡ Nowadays I’m studying web development and programming languages to become a Front-end Developer 
+- ⚡ I’m studying web development and programming languages to become a Front-end Developer 
 - ⚡ I’m currently learning Javascript and improving my HTML and CSS codes
-- ⚡ I'm also trying to dive into React!
+- ⚡ I'm also trying to dive into Java!
+- ⚡ Fun fact: I’m graduated in Fashion Design
 - ⚡ Feel free to contact me!
 
 <br>
