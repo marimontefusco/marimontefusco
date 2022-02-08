@@ -4,7 +4,7 @@
 - ⚡ I’m studying web development and programming languages to become a Front-end Developer 
 - ⚡ I’m currently learning Javascript and improving my HTML and CSS codes
 - ⚡ I'm also trying to dive into Java!
-- ⚡ Fun fact: I’m graduated in Fashion Design
+- ⚡ Other things about myself: I’m graduated in Fashion Design, I'm a plantlover and I have 3 cats and 1 dog 
 - ⚡ Feel free to contact me!
 
 <br>
