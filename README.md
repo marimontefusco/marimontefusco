@@ -1,10 +1,11 @@
 ### Hello, everybody!  👋
 <br>
 
+- ⚡ I’m graduated in Fashion Design
 - ⚡ I’m studying web development and programming languages to become a Front-end Developer 
 - ⚡ I’m currently learning Javascript and improving my HTML and CSS codes
 - ⚡ I'm also trying to dive into Java!
-- ⚡ Other things about myself: I’m graduated in Fashion Design, I'm a plantlover and I have 3 cats and 1 dog 
+- ⚡ Other things about myself: I have 3 cats, 1 dog, and I'm also a plantlover! 
 - ⚡ Feel free to contact me!
 
 <br>
