@@ -3,7 +3,7 @@
 
 - ⚡ I’m studying web development and programming languages to become a Front-end Developer 
 - ⚡ I’m currently learning Javascript and improving my HTML and CSS codes
-- ⚡ I'm also diving into Java!
+- ⚡ I'm also diving into Java and Spring!
 - ⚡ Other things about myself: I have a degree in Fashion Design, 3 cats, 1 dog, lots and lots of plants! 
 - ⚡ Feel free to contact me!
 
