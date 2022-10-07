@@ -2,8 +2,8 @@
 <br>
 
 - ⚡ I’m studying web development and programming languages to become a Front-end Developer 
-- ⚡ I’m currently learning Java/Spring and improving my HTML CSS JS codes
-- ⚡ I'm also diving into Angular and Typescript!
+- ⚡ I’m currently learning React and Typescript by the RocketSeat Ignite Course  
+- ⚡ And I'm also improving my HTML CSS JS Angular andJava/Spring codes!
 - ⚡ Other things about myself: Fashion Design Degree, 3 cats, 1 dog, loooots and lots of plants! 
 - ⚡ Feel free to contact me!
 
