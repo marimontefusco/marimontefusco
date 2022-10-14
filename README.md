@@ -3,7 +3,7 @@
 
 - ⚡ I’m studying web development and programming languages to become a Front-end Developer 
 - ⚡ I’m currently learning React and Typescript by the RocketSeat Ignite Course  
-- ⚡ And I'm also improving my HTML CSS JS Angular andJava/Spring codes!
+- ⚡ And I'm also improving my HTML CSS JS Angular and Java/Spring codes!
 - ⚡ Other things about myself: Fashion Design Degree, 3 cats, 1 dog, loooots and lots of plants! 
 - ⚡ Feel free to contact me!
 
@@ -35,6 +35,4 @@
     <a href="https://www.linkedin.com/in/mariana-reboucas-montefusco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
     <a href="mailto:mari.montefusco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>	
     <a href="https://discord.gg/mari montefusco#3599" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a>
-    <a href="https://discord.gg/mari montefusco#3599" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /></a>
-    
   </div>
