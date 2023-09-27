@@ -1,8 +1,8 @@
 ### Hello, everybody!  👋
 <br>
 
-- ⚡ I’m studying system programming and web development to become a Front-end Developer 
-- ⚡ I’m currently learning Software Engineering, AWS Cloud Computing Technology, Python,  and SQL at University
+- ⚡ I’m studying system programming and web development to become a Software Developer 
+- ⚡ I’m currently learning Software Engineering, AWS Cloud Computing Technology, Python, and SQL at University
 - ⚡ And I'm also trying to improving my Web Development Skills!
 - ⚡ Other things about myself: Fashion Design Degree, Art and Design enthusiast, 3 cats + 1 dog, loooots and lots of plants!
   <br>
