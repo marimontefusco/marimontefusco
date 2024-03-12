@@ -1,10 +1,11 @@
 ### Hello, everybody!  👋
 <br>
-
-- ⚡ I’m studying system programming and web development to become a Software Developer 
-- ⚡ I’m currently learning Software Engineering, AWS Cloud Computing Technology, Python, and SQL at University
-- ⚡ And I'm also trying to improve my Web Development Skills!
-- ⚡ Other things about myself: Fashion Design Degree, art and design enthusiast, 3 cats + 1 dog, loooots and lots of plants!
+- ⚡ I’m studying systems programming and web development to become a Software Developer 
+- ⚡ I’m currently learning Android app development with Kotlin, API and MicroServices development with Python, AWS DevOps and Requirements Engineering at University
+- ⚡ I have already studied Python, SQL, Java, Javascript, AWS Cloud Computing and Software Engineering
+- ⚡ And I'm always trying to improve my development skills!
+  <br>
+- ⚡ Other things about myself:  art and design enthusiast, Fashion Design Degree, 3 cats + 1 dog, loooots and lots of plants!
   <br>
 - ⚡ Feel free to contact me!
 
