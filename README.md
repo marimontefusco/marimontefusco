@@ -1,7 +1,7 @@
 ### Hello, everybody!  👋
 <br>⚡ I’m studying systems programming and web development to become a Software Developer 
   <br>
-<br>⚡ I’m currently learning Android app development with Kotlin, API and MicroServices development with Python, AWS DevOps and Requirements Engineering at University
+<br>⚡ I’m currently learning Android App development with Kotlin, Python API development, MicroServices development with Java, AWS DevOps and Requirements Engineering at University
   <br>
 <br>⚡ I have already studied Python, SQL, Java, Javascript, AWS Cloud Computing and Software Engineering
   <br>
